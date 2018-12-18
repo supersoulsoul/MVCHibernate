@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MVCHibernate"
+  id="myeclipse.1528353067540"
+  context-root="/MVCHibernate"
+  j2ee-spec="5.0"
+  archive="MVCHibernate.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
